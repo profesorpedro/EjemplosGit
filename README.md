@@ -1,7 +1,7 @@
 # EjemplosGit
 **Ejemplos de ejercicios para probar Git**
 
-__Recordad que la rama master ha sido reemplazada por main en Github__
+_Recordad que la rama master ha sido reemplazada por main en Github_
 
 Por tanto es recomendable usar main como rama principal en git.
 
