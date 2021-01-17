@@ -9,7 +9,7 @@ Usar main como rama principal en git.
 
 Con el siguiente codigo podemos remplazar a master por main:
 
-git branch -m master main    
+'git branch -m master main'  
 git push -u origin main
 
 git branch -m master main < – mandamos el historial de master a la nueva rama main
